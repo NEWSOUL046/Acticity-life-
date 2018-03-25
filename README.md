@@ -10,7 +10,7 @@ Activity 是一个应用组件，用户可与其提供的屏幕进行交互，�
 
 打开APP：
 
-![image](https://github.com/NEWSOUL046/Acticity-life-/blob/master/Androidpicture/1.png)
+![image](https://github.com/NEWSOUL046/Acticity-life-/blob/master/Androidpicture/first.png)
 
 Activity 的状态显示为：
 
